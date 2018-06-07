@@ -3,17 +3,11 @@
 
 You can run migration by using following command.
 
-php artisan migrate
+**php artisan migrate**
 
-Models Generated
-Team
-TeamInvite
-TeamUser
-User
+Models Generated 
 
-
-
-
-
-
-
+ - Team 
+ - TeamInvite 
+ - TeamUser 
+ - User
